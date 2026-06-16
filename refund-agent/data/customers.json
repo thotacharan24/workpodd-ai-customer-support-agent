@@ -1,0 +1,22 @@
+[
+  {"id":"CUST001","name":"Amelia Rivera","email":"amelia.rivera@example.com","vip_status":false,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST002","name":"David Chen","email":"david.chen@example.com","vip_status":false,"refund_count_last_90_days":1,"fraud_flag":false},
+  {"id":"CUST003","name":"Priya Nair","email":"priya.nair@example.com","vip_status":true,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST004","name":"Marcus Silva","email":"marcus.silva@example.com","vip_status":true,"refund_count_last_90_days":2,"fraud_flag":false},
+  {"id":"CUST005","name":"Olivia Martin","email":"olivia.martin@example.com","vip_status":false,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST006","name":"Liam O'Connor","email":"liam.oconnor@example.com","vip_status":false,"refund_count_last_90_days":4,"fraud_flag":false},
+  {"id":"CUST007","name":"Nina Kovacs","email":"nina.kovacs@example.com","vip_status":true,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST008","name":"Jamal Thompson","email":"jamal.thompson@example.com","vip_status":false,"refund_count_last_90_days":0,"fraud_flag":true},
+  {"id":"CUST009","name":"Sofia Hernandez","email":"sofia.hernandez@example.com","vip_status":false,"refund_count_last_90_days":1,"fraud_flag":false},
+  {"id":"CUST010","name":"Hana Kim","email":"hana.kim@example.com","vip_status":true,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST011","name":"Ethan Brooks","email":"ethan.brooks@example.com","vip_status":false,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST012","name":"Maya Patel","email":"maya.patel@example.com","vip_status":false,"refund_count_last_90_days":2,"fraud_flag":false},
+  {"id":"CUST013","name":"Aleksandr Petrov","email":"aleksandr.petrov@example.com","vip_status":true,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST014","name":"Sara Nascimento","email":"sara.nascimento@example.com","vip_status":true,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST015","name":"Noah Kim","email":"noah.kim@example.com","vip_status":false,"refund_count_last_90_days":3,"fraud_flag":false},
+  {"id":"CUST016","name":"Zara Cooper","email":"zara.cooper@example.com","vip_status":false,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST017","name":"Felix Huang","email":"felix.huang@example.com","vip_status":false,"refund_count_last_90_days":0,"fraud_flag":false},
+  {"id":"CUST018","name":"Maya Brooks","email":"maya.brooks@example.com","vip_status":false,"refund_count_last_90_days":1,"fraud_flag":false},
+  {"id":"CUST019","name":"Lana Ortiz","email":"lana.ortiz@example.com","vip_status":false,"refund_count_last_90_days":0,"fraud_flag":true},
+  {"id":"CUST020","name":"Terrence Park","email":"terrence.park@example.com","vip_status":true,"refund_count_last_90_days":0,"fraud_flag":false}
+]

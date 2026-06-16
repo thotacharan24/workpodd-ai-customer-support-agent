@@ -1,0 +1,14 @@
+%%{init: {"theme":"base","themeVariables":{}}}%%
+
+flowchart LR
+  A[Frontend - Next.js Chat & Dashboard] -->|POST /chat or /refund| B[FastAPI Backend]
+  B --> C[RefundAgent (LangGraph workflow)]
+  C --> D[SQLite DB]
+  C --> E[OpenAI (explanation) - optional]
+  B --> F[Metrics & Logs endpoints]
+  F --> A
+
+classDef infra fill:#111827,stroke:#374151,color:#fff
+class B,C,D,E,F infra
+
+note right of E: Set OPENAI_API_KEY in backend/.env
