@@ -415,15 +415,7 @@ Requires manual review
 
 ---
 
-# Screenshots
-
-Add screenshots to:
-
-```text
-docs/screenshots/
-```
-
-Required screenshots:
+ screenshots:
 
 ```text
 home-page.png
